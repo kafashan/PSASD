@@ -1,6 +1,10 @@
 # PSASD
 A Personalized Semi-Automatic Sleep Spindle Detection (PSASD) Framework
 
+# Data Download
+You need to first download sample data from [here](https://wustl.box.com/s/nhhv77e79l3iudv3396o7ejl0092e4vp).
+Please ensure the "Data" folder is a subfolder of the PSASD (parent) folder. 
+
 # Directory Guide
 
 *To access the GUI, click on the 'Spindle GUI' folder. 
